@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @natepoirier23
-- 👀 I graduated with a major in computer science as well as a minor in mathematics and data science
--  🌱 I currently work as a developer for National Grid. I’m also currently learning tools for game development
-- 📫 Email: natepoirier17@gmail.com Linkedin: https://www.linkedin.com/in/nathan-poirier23/
-
 # Hi, I’m Nathan 👋
 
 I’m a software engineer focused on **Python-based data extraction, analysis, and decision-support tooling**.
@@ -72,6 +67,6 @@ That experience strongly influences how I approach side projects and tooling: cl
 
 ## Contact
 
-- GitHub: you’re already here  
+- Email: natepoirier17@gmail.com Linkedin: https://www.linkedin.com/in/nathan-poirier23/
 - Open to collaboration, technical discussion, and well-scoped problems  
 
